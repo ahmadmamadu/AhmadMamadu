@@ -1,7 +1,7 @@
 
 # Hi, I'm Ahmad Mamadu 👋
 
-### Accountant | Finance & Data Analytics
+### Accounting and Finance Professional | Data Analyst
 
 Welcome to my GitHub portfolio!
 
