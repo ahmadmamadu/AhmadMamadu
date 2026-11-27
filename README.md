@@ -5,7 +5,7 @@
 
 Welcome to my GitHub portfolio!
 
-I am an accounting professional with experience in financial operations, financial reporting, programme performance monitoring and data analytics.
+I am an accounting and finance professional with experience in financial operations, financial reporting, programme performance monitoring and data analytics.
 
 I am passionate about using financial information and data analytics to improve business performance, strengthen financial decision-making and support evidence-based management.
 
